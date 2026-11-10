@@ -1,0 +1,5 @@
+preview.log
+preview-error.log
+node_modules/
+qa-*.png
+qa-*.jpg
